@@ -1,4 +1,4 @@
-# Fracture-Detection-in-Seismic-Images
+# Fracture Detection in Seismic Images
 - Fracture/Fault detection from seismic images is an integral task both for geoscience research and industries involved in oil extraction.
   
 - Present detection technique involve tremendous task of printing inline seismic data on large sheets and raw observation across pixel columns on the sheet.
